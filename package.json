@@ -1,0 +1,15 @@
+{
+  "name": "com.sony.ir",
+  "version": "3.0.0",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-config-athom": "^2.1.1"
+  },
+  "dependencies": {
+    "homey-rfdriver": "^3.3.1"
+  }
+}
